@@ -1,0 +1,5 @@
+tensorflow>=2.16,<3
+tqdm>=4.60
+fonttools>=4.0
+Pillow>=10
+zhconv>=1.4
